@@ -13,6 +13,11 @@ tests.py holds a number of unit tests that can have been used to check
 the TestFiles directory holds a number of test .txt files that are used 
 	within the tests.py unit tests.
 
+to run the file main program as suggested in the projects brief type:
+	python connectz.py name_of_file.txt
+   e.g. python connectz.py TestFiles/2.2_Player_1_Win.txt
+        from the directory holding the connectz.py file
+
 Summary of solution:
 
 How I approached the Problem:
